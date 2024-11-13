@@ -19,5 +19,3 @@ Lead Developer chez **La Fabrik**
 - Drupal (versions 7 à 10)
 - Next.js
 - Refine
-
----
